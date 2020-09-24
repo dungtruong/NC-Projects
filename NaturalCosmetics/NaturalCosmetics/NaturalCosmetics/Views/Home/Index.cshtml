@@ -1,0 +1,118 @@
+﻿@model NaturalCosmetics.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+}
+<div>
+    @Html.Partial("carousel")
+</div>
+
+<section class="new_arrivals_area section_padding_100_0 clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section_heading text-center">
+                    <h2>Sản phẩm HOT</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="karl-projects-menu mb-100">
+        <div class="text-center portfolio-menu">
+            @*<button class="btn active" data-filter="*">ALL</button>*@
+            <button class="btn active" data-filter=".makeup">Mỹ Phẩm</button>
+            <button class="btn" data-filter=".skincare">Dưỡng Da Mặt</button>
+            <button class="btn" data-filter=".bodycare">Dưỡng Toàn Thân</button>
+            <button class="btn" data-filter=".hair">Dưỡng Tóc</button>
+            <button class="btn" data-filter=".perfume">Nước Hoa</button>
+        </div>
+    </div>
+    @foreach (var cosmetics in Model.HotItem)
+    {
+        @Html.Partial("CakeView", cosmetics);
+    }
+
+</section>
+<!-- ****** Offer Area Start ****** -->
+<section class="offer_area height-700 section_padding_100 bg-img" style="background-image: url(/Assets/img/bg-img/bg-06.jpg);">
+    <div class="container h-100">
+        <div class="row h-100 align-items-end justify-content-end">
+            <div class="col-12 col-md-8 col-lg-6">
+                <div class="offer-content-area wow fadeInUp" data-wow-delay="1s" style="visibility: hidden; animation-delay: 1s; animation-name: none;">
+                    <h2>White t-shirt <span class="karl-level">Hot</span></h2>
+                    <p>* Free shipping until 25 Dec 2017</p>
+                    <div class="offer-product-price">
+                        <h3><span class="regular-price">$25.90</span> $15.90</h3>
+                    </div>
+                    <a href="#" class="btn karl-btn mt-30">Shop Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ****** Popular Brands Area Start ****** -->
+<section class="karl-testimonials-area section_padding_100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section_heading text-center">
+                    <h2>Testimonials</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8">
+                <div class="karl-testimonials-slides owl-carousel">
+
+                    <!-- Single Testimonial Area -->
+                    <div class="single-testimonial-area text-center">
+                        <span class="quote">"</span>
+                        <h6>Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. Aliquam finibus nulla quam, a iaculis justo finibus non. Suspendisse in fermentum nunc.Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. </h6>
+                        <div class="testimonial-info d-flex align-items-center justify-content-center">
+                            <div class="tes-thumbnail">
+                                <img src="img/bg-img/tes-1.jpg" alt="">
+                            </div>
+                            <div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Testimonial Area -->
+                    <div class="single-testimonial-area text-center">
+                        <span class="quote">"</span>
+                        <h6>Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. Aliquam finibus nulla quam, a iaculis justo finibus non. Suspendisse in fermentum nunc.Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. </h6>
+                        <div class="testimonial-info d-flex align-items-center justify-content-center">
+                            @*<div class="tes-thumbnail">
+                                    <img src="img/bg-img/tes-1.jpg" alt="">
+                                </div>*@
+                            <div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Testimonial Area -->
+                    <div class="single-testimonial-area text-center">
+                        <span class="quote">"</span>
+                        <h6>Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. Aliquam finibus nulla quam, a iaculis justo finibus non. Suspendisse in fermentum nunc.Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. </h6>
+                        <div class="testimonial-info d-flex align-items-center justify-content-center">
+                            <div class="tes-thumbnail">
+                                <img src="img/bg-img/tes-1.jpg" alt="">
+                            </div>
+                            <div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

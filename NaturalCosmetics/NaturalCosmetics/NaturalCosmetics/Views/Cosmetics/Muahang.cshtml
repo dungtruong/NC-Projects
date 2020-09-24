@@ -1,0 +1,71 @@
+﻿@model ShoppingCartViewModel
+@{
+    ViewData["Title"] = "Cart";
+}
+<h2>Cart <i class="fa fa-shopping-cart" aria-hidden="true"></i> </h2>
+
+@if (Model.ShoppingCart.ShoppingCartItems?.Count() <= 0)
+{
+    <br />
+    <h6>Giỏ hàng của bạn trống</h6>
+    return;
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Giá</th>
+            <th>Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ShoppingCart.ShoppingCartItems)
+        {
+            <tr>
+                <td>@item.Cosmetics.Name</td>
+                <td>
+                    <form class="d-inline align-middle" asp-action="RemoveFromShoppingCart"
+                          asp-controller="Cosmetics"
+                          asp-route-cosmeticsId="@item.CosmeticsId"
+                          method="post">
+                        <button class="btn fa fa-minus fa-small" aria-hidden="true"></button>
+                    </form>
+                    <span style="padding:1px 10px">@item.Qty</span>
+                    <form class="d-inline align-middle" asp-action="AddToShoppingCart"
+                          asp-controller="Cosmetics"
+                          asp-route-cosmeticsId="@item.CosmeticsId"
+                          method="post">
+                        <button class="btn fa fa-plus fa-small" aria-hidden="true"></button>
+                    </form>
+                </td>
+                <td>@{var value2 = String.Format("{0,-5:N0}đ", item.Cosmetics.Price); }@value2</td>
+                <td>@{var value1 = String.Format("{0,-5:N0}đ", item.Cosmetics.Price+item.Qty); }@value1</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3">Tổng cộng: </td>
+            <td>@{var value = String.Format("{0,-5:N0}đ", Model.ShoppingCartTotal); }@value</td>
+        </tr>
+        <tr style="border:0">
+            <td>
+                <form asp-action="RemoveAllCart" method="post">
+                    <button class="btn btn-link text-dark" asp-action="RemoveAllCart">
+                        <i class="fa fa-times" aria-hidden="true"></i>
+                        Xóa giỏ hàng
+                    </button>
+                </form>
+            </td>
+            <td colspan="2"></td>
+            <td class="text-center">
+                <a class="btn buy-now-btn float-right" asp-action="checkout" asp-controller="order">
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                    Kiểm tra giỏ hàng
+                </a>
+            </td>
+        </tr>
+    </tfoot>
+</table>

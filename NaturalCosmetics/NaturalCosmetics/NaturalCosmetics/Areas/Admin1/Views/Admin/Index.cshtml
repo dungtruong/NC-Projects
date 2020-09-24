@@ -1,0 +1,134 @@
+﻿@model NaturalCosmetics.ViewModels.PaginatedListProduct<NaturalCosmetics.Models.Cosmetics>
+
+@{
+    ViewData["Title"] = "ManageCosmetics";
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+
+}
+<h2>Quản lý sản phẩm</h2>
+<br />
+<div>
+    <a asp-action="Add" class="btn buy-now-btn">Thêm sản phẩm</a>
+</div>
+
+<br />
+<table class="table ">
+    <thead>
+        <tr>
+            <th>Hình ảnh</th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">Tên sản phẩm</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="cake-@item.Id">
+                <td><img src="~/images/upload/@item.Img" width="80" height="80" /></td>
+
+                <td>@item.Name</td>
+                <td>
+
+                    <a class="btn btn-link btn-no-effect btn-success" asp-action="Edit" asp-route-id="@item.Id"><span class="ti-pencil" /> </a>
+                    |
+                    <a class="btn btn-link btn-no-effect btn-primary " asp-action="" data-toggle="modal" data-target="#@item.Id">
+                        <span class="ti-list" />
+                    </a>                    |
+                    <button class="btn btn-link btn-no-effect btn-danger deleteBtn " data-id="@item.Id"> <span class="ti-trash" /></button>
+                </td>
+            </tr>
+            <div class="modal fade" id="@item.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                 aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Chi tiết sản phẩm</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div>
+                                <img src="~/images/upload/@item.Img" width="400" height="400" />
+                                <dl class="dl-horizontal">
+                                    <dt style="font-size:medium;color:hotpink">Mã sản phẩm: </dt>
+                                    <dd>@item.Id</dd>
+                                    <dt style="font-size:medium;color:hotpink">Tên sản phẩm: </dt>@item.Name
+                                    <dt style="font-size:medium;color:hotpink">Chi tiết sản phẩm: </dt>@item.Detail
+                                    <dt style="font-size:medium;color:hotpink">Giá: </dt>@item.Price
+                                    <dt style="font-size:medium;color:hotpink">Loại: </dt>@item.TypeId
+
+                                </dl>
+
+                            </div>
+                            <div class="modal-footer">
+                                <a class="btn btn-default" asp-action="Index">Trở về</a>
+                                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Sửa</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        }
+    </tbody>
+</table>
+@*<div class="row">
+    <div>
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-page="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-primary @prevDisabled">
+            Previous
+        </a>
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-page="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-primary @nextDisabled">
+            Next
+        </a>
+    </div>
+</div>*@
+<div class="shop_pagination_area wow fadeInUp">
+    <nav aria-label="Page navigation">
+        <ul class="pagination pagination-sm">
+            <li class="page-item active"><a class="page-link @prevDisabled" asp-action="Index" asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-page="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"><<</a></li>
+            <li class="page-item"><a class="page-link @nextDisabled" asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-page="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]">>></a></li>
+            
+        </ul>
+    </nav>
+</div>
+@section scripts {
+    <script>
+
+        $(".deleteBtn").click((e) => {
+            const id = $(e.target).data("id");
+            if (!confirm("Are you sure to delete?"))
+                return;
+
+            $.ajax({
+                url: '/admin/' + id,
+                type: 'DELETE',
+                success: () => {
+                    const target = $("#cake-" + id);
+                    $(target).fadeOut(500, () => $(target).remove());
+                },
+                error: (e) => {
+                    alert("Somthing Went Wrong", e);
+                }
+            });
+        });
+
+    </script>
+    }

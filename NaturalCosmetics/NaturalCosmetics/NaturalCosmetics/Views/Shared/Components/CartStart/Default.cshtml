@@ -1,0 +1,27 @@
+﻿@model ShoppingCartViewModel
+    <!-- Cart List Area Start -->
+
+<ul class="cart-list">
+    @foreach (var item in Model.ShoppingCart.ShoppingCartItems)
+    {
+        <li>
+            <a href="#" class="image"><img src="~/images/upload/@item.Cosmetics.Img" class="cart-thumb" alt=""></a>
+            <div class="cart-item-desc">
+                <h6><a href="#">@item.Cosmetics.Name</a></h6>
+                <p>
+                    @item.Qty x <span class="price">
+                        @{var value2 = String.Format("{0,-5:N0}đ", item.Cosmetics.Price); }@value2
+                    </span>
+                </p>
+            </div>
+            <span class="dropdown-product-remove"><i class="icon-cross"></i></span>
+        </li>
+    }
+    <li class="total">
+        <span class="pull-right">Total: @{var value = String.Format("{0,-5:N0}đ", Model.ShoppingCartTotal); }@value</span>
+        <a asp-controller="Cosmetics" asp-action="Muahang" asp-area="" class="btn btn-sm btn-cart">Giỏ Hàng</a>
+        <a asp-area="" asp-controller="Order" asp-action="Checkout" class="btn btn-sm btn-checkout">Thanh Toán</a>
+    </li>
+</ul>
+
+

@@ -1,0 +1,63 @@
+﻿@model NaturalCosmetics.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="row">
+        <div class="col-md-6">
+            <h2>Đăng kí tài khoản</h2>
+            <div asp-validation-summary="ModelOnly"></div>
+            <form asp-route-returnUrl="@ViewData["ReturnUrl"]" class="login" method="post">
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <p class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+                </p>
+                <p class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="form-control" />
+                </p>
+                <p class="form-group">
+                    <label asp-for="ConfirmPassword"></label>
+                    <input asp-for="ConfirmPassword" class="form-control" />
+                </p>
+                <button class="btn buy-now-btn">Đăng kí</button>
+                <a asp-action="login" class="float-right">Đã có tài khoản? Đăng nhập ngay</a>
+
+            </form>
+        </div>
+    </div>
+@*<div class="container">
+    <div class="my-account">
+        <div class="tabs-container">
+             Login 
+            <h3 style="text-align: center;" class="margin-bottom-10 margin-top-10">Đăng ký tài khoản</h3>
+
+
+            <form asp-route-returnUrl="@ViewData["ReturnUrl"]" class="login" method="post">
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <p class="form-row form-row-wide">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="input-text" />
+                </p>
+                <p class="form-row form-row-wide">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="input-text" />
+                </p>
+                <p class="form-row">
+                    <label asp-for="ConfirmPassword"></label>
+                    <input asp-for="ConfirmPassword" class="input-text" />
+                </p>
+                <p style="width: 29%;margin : 0 auto" class="form-row">
+                    <button type="submit" class="button">
+                        Register
+                    </button>
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="col-md-3"></div>*@

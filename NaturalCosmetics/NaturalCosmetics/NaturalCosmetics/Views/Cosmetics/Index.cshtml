@@ -1,0 +1,332 @@
+﻿@model IEnumerable<CosmeticsDto>
+@using System.Collections.Generic;
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title  -->
+    <title>Natural Cosmetics | Home</title>
+
+    <!--Chat On -->
+    <script type="text/javascript">
+            var _smartsupp = _smartsupp || {};
+            _smartsupp.key = '14eb99374a3649b44114a06217c8d2d7de468445';
+            window.smartsupp || (function (d) {
+                var s, c, o = smartsupp = function () { o._.push(arguments) }; o._ = [];
+                s = d.getElementsByTagName('script')[0]; c = d.createElement('script');
+                c.type = 'text/javascript'; c.charset = 'utf-8'; c.async = true;
+                c.src = 'https://www.smartsuppchat.com/loader.js?'; s.parentNode.insertBefore(c, s);
+            })(document);
+    </script>
+            
+</head>
+<body>
+    <!-- ****** Top Discount Area Start ****** -->
+    <section class="top-discount-area d-md-flex align-items-center">
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>Miễn phí vận chuyển &amp; Trả hàng</h5>
+            <h6><a href="#">Mua ngay</a></h6>
+        </div>
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>COD thanh toán, dịch vụ thanh toán tại nhà khi nhận hàng</h5>
+            <h6>Áp dụng đối với khách hàng tại khu vực TP.HCM</h6>
+        </div>
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>Khách hàng tại các Tỉnh/Thành khác</h5>
+            <h6>Chuyển khoản tài khoản Ngân hàng hoặc Internet Banking trước khi giao hàng</h6>
+        </div>
+    </section>
+    <!-- ****** Top Discount Area End ****** -->
+    <!-- ****** Welcome Slides Area Start ****** -->
+    <section class="welcome_area">
+        <div class="welcome_slides owl-carousel">
+            <!-- Single Slide Start -->
+            <div class="single_slide height-800 bg-img background-overlay" style="background-image: url(/Assets/img/bg-img/bg-00.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="welcome_slide_text">
+                                <h6 data-animation="bounceInDown" data-delay="0" data-duration="500ms">* Only today we offer free shipping</h6>
+                                <h2 data-animation="fadeInUp" data-delay="500ms" data-duration="500ms">Fashion Trends</h2>
+                                <a href="#" class="btn karl-btn" data-animation="fadeInUp" data-delay="1s" data-duration="500ms">Shop Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Slide Start -->
+            <div class="single_slide height-800 bg-img background-overlay" style="background-image: url(/Assets/img/bg-img/bg-02.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="welcome_slide_text">
+                                <h6 data-animation="fadeInDown" data-delay="0" data-duration="500ms">* Only today we offer free shipping</h6>
+                                <h2 data-animation="fadeInUp" data-delay="500ms" data-duration="500ms">Summer Collection</h2>
+                                <a href="#" class="btn karl-btn" data-animation="fadeInLeftBig" data-delay="1s" data-duration="500ms">Check Collection</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Slide Start -->
+            <div class="single_slide height-800 bg-img background-overlay" style="background-image: url(/Assets/img/bg-img/bg-03.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="welcome_slide_text">
+                                <h6 data-animation="fadeInDown" data-delay="0" data-duration="500ms">* Only today we offer free shipping</h6>
+                                <h2 data-animation="bounceInDown" data-delay="500ms" data-duration="500ms">Women Fashion</h2>
+                                <a href="#" class="btn karl-btn" data-animation="fadeInRightBig" data-delay="1s" data-duration="500ms">Check Collection</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ****** Welcome Slides Area End ****** -->
+    <!-- ****** Top Catagory Area Start ****** -->
+    <section class="top_catagory_area d-md-flex clearfix">
+        <!-- Single Catagory -->
+        <div class="single_catagory_area d-flex align-items-center bg-img background-overlay" style="background-image: url(/Assets/img/bg-img/bg-04.jpg);">
+            <div class="catagory-content">
+                <h2>SKIN CARE</h2>
+                <a asp-action="Skincare" asp-area="" asp-controller="Cosmetics" class="btn karl-btn">SHOP NOW</a>
+            </div>
+        </div>
+        <!-- Single Catagory -->
+        <div class="single_catagory_area d-flex align-items-center bg-img background-overlay" style="background-image: url(/Assets/img/bg-img/bg-05.jpg);">
+            <div class="catagory-content">
+                <h2>HAIR</h2>
+                <a asp-action="Hair" asp-area="" asp-controller="Cosmetics" class="btn karl-btn">SHOP NOW</a>
+            </div>
+        </div>
+    </section>
+    <!-- ****** Top Catagory Area End ****** -->
+    <!-- ****** Quick View Modal Area Start ****** -->
+    @foreach (var item in Model)
+    {
+        <div class="modal fade" id="@item.Id" tabindex="-1" role="dialog" aria-labelledby="quickview" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+
+                    <div class="modal-body">
+                        <div class="quickview_body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 col-lg-5">
+                                        <div class="quickview_pro_img">
+                                            <img src="~/images/upload/@item.Img" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-7">
+                                        <div class="quickview_pro_des">
+                                            <h4 class="title">@item.Name</h4>
+                                            <div class="top_seller_product_rating mb-15">
+                                                <i class="fa fa-star" aria-hidden="true"></i>
+                                                <i class="fa fa-star" aria-hidden="true"></i>
+                                                <i class="fa fa-star" aria-hidden="true"></i>
+                                                <i class="fa fa-star" aria-hidden="true"></i>
+                                                <i class="fa fa-star" aria-hidden="true"></i>
+                                            </div>
+                                            <h5 class="price">@{var value = String.Format("{0,-5:N0}đ", item.Price); }@value </h5>
+                                            <p>@item.Detail</p>
+                                            <a asp-area="" asp-controller="Cosmetics" asp-action="ChiTietSP" asp-route-id="@item.Id">Xem chi tiết sản phẩm</a>
+                                        </div>
+                                        <!-- Add to Cart Form -->
+                                        
+                                            
+                                            <form asp-action="AddToShoppingCart"
+                                                  asp-controller="ShoppingCart"
+                                                  asp-route-cosmeticsId="@item.Id"
+                                                  method="post">
+                                                <button class="btn btn-no-effect add-to-cart">Thêm vào giỏ hàng</button>
+                                            </form>                                            
+                                            
+                                        
+
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <!-- ****** Quick View Modal Area End ****** -->
+    <!-- ****** New Arrivals Area Start ****** -->
+    <section class="new_arrivals_area section_padding_100_0 clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section_heading text-center">
+                        <h2>SẢN PHẨM</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="karl-projects-menu mb-100">
+            <div class="text-center portfolio-menu">
+                <button class="btn active" data-filter="*">ALL</button>
+                <button class="btn" data-filter=".1">Mỹ Phẩm</button>
+                <button class="btn" data-filter=".2">Dưỡng Da Mặt</button>
+                <button class="btn" data-filter=".3">Dưỡng Toàn Thân</button>
+                <button class="btn" data-filter=".4">Dưỡng Tóc</button>
+                <button class="btn" data-filter=".5">Nước Hoa</button>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row karl-new-arrivals" style="position: relative; height: 1094.03px;">
+
+                <!-- Single gallery Item Start -->
+                @{ int i = 0;}
+                @foreach (var item in Model)
+                {
+                    
+                        if (i < 6)
+                        {
+                        <div class="col-12 col-sm-6 col-md-4 single_gallery_item @item.TypeId wow fadeInUpBig" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none; position: absolute; left: 0%; top: 0px;">
+                            <!-- Product Image -->
+                            <div class="product-img">
+                                <img src="~/images/upload/@item.Img" alt="">
+                                <div class="product-quicview">
+                                    <a href="#" data-toggle="modal" data-target="#@item.Id"><i class="ti-eye"></i></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <h4 class="product-price">@{var value = String.Format("{0,-5:N0}đ", item.Price); }@value</h4>
+                                <p>@item.Name</p>
+                                <form asp-action="AddToShoppingCart"
+                                      asp-controller="ShoppingCart"
+                                      asp-route-cosmeticsId="@item.Id"
+                                      method="post">
+                                    <button class="btn btn-no-effect add-to-cart-btn">Thêm vào giỏ hàng</button>
+                                </form>
+                            </div>
+                        </div>
+                        }i++;
+                    }
+                
+            </div>
+        </div>
+    </section>
+    <!-- ****** New Arrivals Area End ****** -->
+    <!-- ****** Offer Area Start ****** -->
+    <section class="offer_area height-700 section_padding_100 bg-img" style="background-image: url(/Assets/img/bg-img/bg-06.jpg);">
+        <div class="container h-100">
+            <div class="row h-100 align-items-end justify-content-end">
+                <div class="col-12 col-md-8 col-lg-6">
+                    <div class="offer-content-area wow fadeInUp" data-wow-delay="1s" style="visibility: hidden; animation-delay: 1s; animation-name: none;">
+                        <h2>Mọi sản phẩm <span class="karl-level">Hot</span></h2>
+                        <p>* Miễn phí vận chuyển đến 1/6/2019</p>
+                        @*<div class="offer-product-price">
+                            <h3><span class="regular-price">$25.90</span> $15.90</h3>
+                        </div>*@
+                        <a href="#" class="btn karl-btn mt-30">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ****** Offer Area End ****** -->
+    <!-- ****** Popular Brands Area Start ****** -->
+    <section class="karl-testimonials-area section_padding_100">
+        <div class="container">
+            @*<div class="row">
+            <div class="col-12">
+                <div class="section_heading text-center">
+                    <h2>Testimonials</h2>
+                </div>
+            </div>
+        </div>*@
+
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <div class="karl-testimonials-slides owl-carousel">
+
+                        <!-- Single Testimonial Area -->
+                        <div class="single-testimonial-area text-center">
+                            <span class="quote">"</span>
+                            <div>
+                                <img src="~/Assets/img/3.jpg" />
+                            </div>
+                            @*<h6> </h6>*@
+                            @*<div class="testimonial-info d-flex align-items-center justify-content-center">
+                            <div class="tes-thumbnail">
+                                <img src="img/bg-img/tes-1.jpg" alt="">
+                            </div>
+                            <div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>*@
+                        </div>
+
+                        <!-- Single Testimonial Area -->
+                        <div class="single-testimonial-area text-center">
+                            <span class="quote">"</span>
+                            <div>
+                                <img src="~/Assets/img/1.jpg" />
+                            </div>
+                            @*<h6>Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. Aliquam finibus nulla quam, a iaculis justo finibus non. Suspendisse in fermentum nunc.Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. </h6>*@
+                            @*<div class="testimonial-info d-flex align-items-center justify-content-center">
+                        @*<div class="tes-thumbnail">
+                            <img src="img/bg-img/tes-1.jpg" alt="">
+                        </div>*@
+                            @*<div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>*@
+                        </div>
+
+                        <!-- Single Testimonial Area -->
+                        <div class="single-testimonial-area text-center">
+                            <span class="quote">"</span>
+                            <div>
+                                <img src="~/Assets/img/2.jpg" />
+                            </div>
+                            @*<h6>Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. Aliquam finibus nulla quam, a iaculis justo finibus non. Suspendisse in fermentum nunc.Nunc pulvinar molestie sem id blandit. Nunc venenatis interdum mollis. </h6>*@
+                            @*<div class="testimonial-info d-flex align-items-center justify-content-center">
+                            <div class="tes-thumbnail">
+                                <img src="img/bg-img/tes-1.jpg" alt="">
+                            </div>
+                            <div class="testi-data">
+                                <p>Michelle Williams</p>
+                                <span>Client, Los Angeles</span>
+                            </div>
+                        </div>*@
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div id="map" style="width:500px;height:500px;">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4938.210916924557!2d106.66444745206836!3d10.77599316
+                            5117999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752edadf5f3f1b%3A0x58
+                            0f55b924b55824!2zMTU1IFPGsCBW4bqhbiBI4bqhbmgsIFBoxrDhu51uZyAxMiwgUXXhuq1uIDEwLCBI4buTIEN
+                            ow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1555522938831!5m2!1svi!2s" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- ****** Popular Brands Area End ****** -->
+    <!-- ****** Footer Area End ****** -->
+    <!-- /.wrapper end -->
+</body>

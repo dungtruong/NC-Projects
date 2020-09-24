@@ -1,0 +1,16 @@
+﻿@model CosmeticsListViewModel
+@if (Model.Cosmetics?.Count() > 0)
+{
+    <h1>@Model.CurrentCosmeticsType </h1>
+    <div class="row">
+        @foreach (var cosmetics in Model.Cosmetics)
+        {
+            @await Html.PartialAsync("CakeView", cosmetics);
+        }
+    </div>
+}
+else
+{
+    <h1>Bánh</h1>
+    <p>Xin lỗi không tìm thấy '@Model.CurrentCosmeticsType' loại sản phẩm. </p>
+}

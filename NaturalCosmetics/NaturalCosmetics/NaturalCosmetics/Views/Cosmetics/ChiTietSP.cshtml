@@ -1,0 +1,106 @@
+﻿
+@model NaturalCosmetics.Models.Cosmetics
+@using System.Collections.Generic;
+
+<body>
+
+
+    <section class="single_product_details_area section_padding_0_100">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12 col-md-6">
+                    <div class="single_product_thumb">
+                        <div id="product_details_slider" class="carousel slide" data-ride="carousel">
+
+                            <ol class="carousel-indicators">
+                                <li class="active" data-slide-to="0" style="background-image: url('/images/upload/@Model.Img')">
+                                </li>
+                                <li data-slide-to="1" style="background-image: url('/images/upload/@Model.Img');" class="">
+                                </li>
+                                <li data-slide-to="2" style="background-image: url('/images/upload/@Model.Img');" class="">
+                                </li>
+                                <li data-slide-to="3" style="background-image: url('/images/upload/@Model.Img');" class="">
+                                </li>
+                            </ol>
+
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <a class="gallery_img" href="~/images/upload/@Model.Img">
+                                        <img class="d-block w-100" src="~/images/upload/@Model.Img" alt="First slide">
+                                    </a>
+                                </div>
+                                <div class="carousel-item">
+                                    <a class="gallery_img" href="~/images/upload/@Model.Img">
+                                        <img class="d-block w-100" src="~/images/upload/@Model.Img" alt="Second slide">
+                                    </a>
+                                </div>
+                                <div class="carousel-item">
+                                    <a class="gallery_img" href="~/images/upload/@Model.Img">
+                                        <img class="d-block w-100" src="~/images/upload/@Model.Img" alt="Third slide">
+                                    </a>
+                                </div>
+                                <div class="carousel-item">
+                                    <a class="gallery_img" href="~/images/upload/@Model.Img">
+                                        <img class="d-block w-100" src="~/images/upload/@Model.Img" alt="Fourth slide">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-12 col-md-6">
+                    <div class="single_product_desc">
+
+                        <h4 class="title"><a href="#">@Model.Name</a></h4>
+
+                        <h4 class="price">@{var value = String.Format("{0,-5:N0}đ", Model.Price); }@value</h4>
+
+
+                        <div class="single_product_ratings mb-15">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </div>
+
+
+                        <form asp-action="AddToShoppingCart"
+                              asp-controller="Cosmetics"
+                              asp-route-cosmeticsId="@Model.Id"
+                              method="post">
+                            <button class="btn btn-no-effect add-to-cart-btn">Thêm vào giỏ hàng</button>
+                        </form>
+
+
+                        <div id="accordion" role="tablist">
+                            <div class="card">
+                                <div class="card-header" role="tab" id="headingOne">
+                                    <h6 class="mb-0">
+                                        <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="">Chi tiết sản phẩm</a>
+                                    </h6>
+                                </div>
+
+                                <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" style="">
+                                    <div class="card-body">
+                                        <p>@Model.Detail</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+</body>
+
+

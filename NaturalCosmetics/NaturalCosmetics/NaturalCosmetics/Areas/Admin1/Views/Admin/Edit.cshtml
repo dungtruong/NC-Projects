@@ -1,0 +1,77 @@
+﻿@model NaturalCosmetics.ViewModels.CosmeticsCreateUpdateViewModel
+@{
+    ViewData["Title"] = "EditCosmetics";
+}
+<h2>Cập nhật sản phẩm</h2>
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div class="form-group">
+                <label asp-for="CosmeticsDto.Name"></label>
+                <input asp-for="CosmeticsDto.Name" class="form-control" />
+                <span asp-validation-for="CosmeticsDto.Name"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CosmeticsDto.TypeId"></label>
+                <select class="custom-select" asp-for="CosmeticsDto.TypeId">
+                    <option value=""></option>
+                    @foreach (var item in Model.CosmeticsTypes)
+                    {
+                        <option value="@item.TypeId">@item.TypeName</option>
+                    }
+                </select>
+                <span asp-validation-for="CosmeticsDto.TypeId"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CosmeticsDto.Detail"></label>
+                <textarea asp-for="CosmeticsDto.Detail" class="form-control"></textarea>
+                <span asp-validation-for="CosmeticsDto.Detail"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CosmeticsDto.Price"></label>
+                <input asp-for="CosmeticsDto.Price" class="form-control" />
+                <span asp-validation-for="CosmeticsDto.Price"></span>
+            </div>
+            @*<div class="form-group">*@
+            <label asp-for="CosmeticsDto.Img"></label>
+            <input asp-for="CosmeticsDto.Img" class="form-control" type="file" id="fileUpload" />
+            @*</div>*@
+            <div class="form-check form-group">
+                <input type="checkbox" class="form-check-input" asp-for="CosmeticsDto.IsHotItems">
+                <label class="form-check-label" asp-for="CosmeticsDto.IsHotItems"></label>
+                <span asp-validation-for="CosmeticsDto.IsHotItems"></span>
+            </div>
+            <div class="form-group">
+                <button class="btn buy-now-btn btn-success">Lưu</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+    $("#fileUpload").on('change', function () {
+        if (typeof (FileReader) != "undefined") {
+            var image_holder = $("#image-holder"); image_holder.empty();
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("<img />", { "src": e.target.result, "class": "thumb-image", "width": "80%" }).appendTo(image_holder);
+            }
+            image_holder.show();
+            reader.readAsDataURL($(this)[0].files[0]);
+        } else {
+            alert("This browser does not support FileReader.");
+        }
+    });
+
+
+    function readURL(input) {
+
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) { $('#image_upload_preview').attr({ 'src': e.target.result, 'width': '200px' }); }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    $("#fileUpload").change(function () { readURL(this); });
+</script>

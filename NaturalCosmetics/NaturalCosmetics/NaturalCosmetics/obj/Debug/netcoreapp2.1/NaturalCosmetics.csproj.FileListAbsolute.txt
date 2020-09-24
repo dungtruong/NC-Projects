@@ -1,0 +1,376 @@
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.deps.json
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.json
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.dev.json
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.dll
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CoreCompileInputs.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfoInputs.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfo.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.input.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.output.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorCoreGenerate.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\AddOrEditCosmetics.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Add.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\AllOrder.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Edit.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Bodycare.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ChiTietSP.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\CosmeticsType.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Details.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Hair.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Index.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Lienlac.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\List.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Makeup.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Muahang.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Perfume.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Skincare.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ThanhToan.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Tintuc.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\MyOrder.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\carousel.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CartStart.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Category.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CosmeticsView.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\OrderList.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cache
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cs
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CopyComplete
+C:\Users\ttquy\Downloads\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartStart\Default.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.deps.json
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.json
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.dev.json
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.dll
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CoreCompileInputs.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfoInputs.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfo.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.input.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.output.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorCoreGenerate.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\AddOrEditCosmetics.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Add.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\AllOrder.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Bodycare.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ChiTietSP.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\CosmeticsType.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Hair.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Lienlac.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\List.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Makeup.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Muahang.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Perfume.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Skincare.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ThanhToan.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Tintuc.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\MyOrder.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\carousel.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CartStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Category.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartStart\Default.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CosmeticsView.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\OrderList.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cache
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CopyComplete
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Register.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Error\HandleErrorCode.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Blog.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Edit.g.cshtml.cs
+F:\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+F:\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+F:\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.deps.json
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.json
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.dev.json
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.dll
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CoreCompileInputs.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfoInputs.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfo.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.input.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.output.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorCoreGenerate.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\AddOrEditCosmetics.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Add.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\AllOrder.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Register.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Blog.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Bodycare.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ChiTietSP.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\CosmeticsType.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Hair.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Lienlac.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\List.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Makeup.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Muahang.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Perfume.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Skincare.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ThanhToan.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Tintuc.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Error\HandleErrorCode.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\MyOrder.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\carousel.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CartStart.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Category.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartStart\Default.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CosmeticsView.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\OrderList.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cache
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CopyComplete
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index1.g.cshtml.cs
+C:\Users\khuye\Desktop\Đồ Án\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index1.g.cshtml.cs
+C:\Users\ttquy\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.deps.json
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.json
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.dev.json
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.dll
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CoreCompileInputs.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfoInputs.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfo.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.input.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.output.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorCoreGenerate.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\AddOrEditCosmetics.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Add.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\AllOrder.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index1.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Register.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Blog.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Bodycare.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ChiTietSP.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\CosmeticsType.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Hair.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Lienlac.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\List.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Makeup.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Muahang.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Perfume.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Skincare.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ThanhToan.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Tintuc.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Error\HandleErrorCode.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\MyOrder.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\carousel.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CartStart.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Category.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartStart\Default.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CosmeticsView.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\OrderList.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cache
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cs
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+C:\Users\khuye\Desktop\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CopyComplete
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\appsettings.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\package-lock.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\package.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.deps.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.runtimeconfig.dev.json
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.dll
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.dll
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\bin\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csprojAssemblyReference.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorAssemblyInfo.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfoInputs.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.AssemblyInfo.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.input.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.TagHelpers.output.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorCoreGenerate.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\AddOrEditCosmetics.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Add.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\AllOrder.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Edit.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Admin\Index1.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Edit.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Index.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Home\Register.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\Shared\_Layout.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewImports.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Admin1\Views\_ViewStart.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Blog.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Bodycare.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ChiTietSP.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\CosmeticsType.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Details.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Hair.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Index.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Lienlac.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\List.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Makeup.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Muahang.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Perfume.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Skincare.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\ThanhToan.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Cosmetics\Tintuc.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Error\HandleErrorCode.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Order\MyOrder.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\carousel.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CartStart.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Category.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartStart\Default.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\CosmeticsView.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\OrderList.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cache
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.RazorTargetAssemblyInfo.cs
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.Views.pdb
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.dll
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.pdb
+E:\1\NaturalCosmetics\NaturalCosmetics\NaturalCosmetics\obj\Debug\netcoreapp2.1\NaturalCosmetics.csproj.CopyComplete
